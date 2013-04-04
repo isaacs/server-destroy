@@ -1,6 +1,6 @@
 {
   "name": "server-destroy",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Enable destroying a server, and all currently open connections.",
   "main": "index.js",
   "scripts": {
